@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "S6ALrlPZYffjZZUt0AEYJ6bYe263u4HKYueU3BtFRLk=",
+  "Source": "BusinessAPI",
+  "BasePath": "_content/BusinessAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\onuro\\source\\repos\\CurrencyChartAPI\\DataAPI\\DataAPI.csproj",
+      "Version": 2,
+      "Source": "DataAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
